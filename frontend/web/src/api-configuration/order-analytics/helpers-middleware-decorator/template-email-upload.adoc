@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\api-configuration\order-analytics\helpers-middleware-decorator\template-email-upload.adoc
+// Generated at: 2025-10-12T08:12:57.938Z
